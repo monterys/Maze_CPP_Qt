@@ -92,4 +92,4 @@
 Над проектом работала команда в составе:
 
 - [Маргарита](https://github.com/Marg-S)
-- Ильнар
+- [Ильнар](https://github.com/monterys)
